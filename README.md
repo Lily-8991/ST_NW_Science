@@ -13,7 +13,6 @@
 
 :arrow_up:[к оглавлению](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Оглавление)
 
-
 ### Какой кейс решаем?  
 Проводим анализ вакансий HeadHunter, отрабатывая навыки работы средствами SQL
 
