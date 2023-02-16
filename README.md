@@ -1,17 +1,17 @@
 # Проект 2. Анализ вакансий на HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Lily-8991/ST_NW_Science/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Lily-8991/ST_NW_Science/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Lily-8991/ST_NW_Science/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Lily-8991/ST_NW_Science/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Lily-8991/ST_NW_Science/README.md#Результат)    
-[6. Выводы](https://github.com/Lily-8991/ST_NW_Science/README.md#Выводы) 
+[1. Описание проекта](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Результат)    
+[6. Выводы](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Выводы) 
 
 ### Описание проекта    
 Анализ данных для анализа вакансий HeadHunter с помощью SQL-запросов.
 
-:arrow_up:[к оглавлению](https://github.com/Lily-8991/ST_NW_Science/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?  
@@ -39,7 +39,7 @@
 4) провести анализ работодателей;
 5) провести предметный анализ.
 
-:arrow_up:[к оглавлению](https://github.com/Lily-8991/ST_NW_Science/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Оглавление)
 
 ### Результаты:  
 - проведен предварительный анализ данных;
@@ -50,6 +50,6 @@
 - подведены промежуточные и итоговые выводы;
 - результаты оформлены в Jupiter Notebook
 
-:arrow_up:[к оглавлению](https://github.com/Lily-8991/ST_NW_Science/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Lily-8991/ST_NW_Science/blob/main/README.md#Оглавление)
 
 
